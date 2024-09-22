@@ -6,4 +6,7 @@
 ##### H5 header practice
 ###### H6 header practice
 
+``` javascript
+var myVar = "Hello, world!";
+```
 
